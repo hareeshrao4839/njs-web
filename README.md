@@ -1,2 +1,2 @@
-# njs-web
-njs-web
+# webapp-nodejs
+Sample Web Application Written in Node.js
